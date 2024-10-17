@@ -51,7 +51,7 @@ Para instalar e executar este projeto, siga os passos abaixo:
 
 3. Navegue até o diretório do projeto:
    ```
-   cd jogo-da-memoria
+   cd Jogo-da-Memoria-Desafio
    ```
 
 4. Instale as dependências:
@@ -61,14 +61,14 @@ Para instalar e executar este projeto, siga os passos abaixo:
 
 5. Inicie o servidor de desenvolvimento:
    ```
-   ng serve
+   npm start
    ```
 
 6. Abra seu navegador e acesse `http://localhost:4200`.
 
 7. Para rodar os testes unitários:
    ```
-   ng test
+   npm run test
    ```
 
 ## 🔍 Detalhes de Implementação
